@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace WinchModTemplate
+namespace Shallow Salts
 {
 	public class Loader
 	{
@@ -9,8 +9,8 @@ namespace WinchModTemplate
 		/// </summary>
 		public static void Initialize()
 		{
-			var gameObject = new GameObject(nameof(WinchModTemplate));
-			gameObject.AddComponent<WinchModTemplate>();
+			var gameObject = new GameObject(nameof(Shallow Salts));
+			gameObject.AddComponent<Shallow Salts>();
 			GameObject.DontDestroyOnLoad(gameObject);
 		}
 	}
