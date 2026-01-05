@@ -1,0 +1,39 @@
+﻿{
+  "itemNameKey": "shallowsalts.horned_snail.name",
+  "itemDescriptionKey": "shallowsalts.horned_snail.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "shallowsalts.horned_snail",
+  "itemColor": {
+    "r": 74,
+    "g": 237,
+    "b": 217,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 74,
+    "g": 237,
+    "b": 217,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 4,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": false,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 10,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 5,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "SHALLOW",
+  "harvestDifficulty": "VERY_EASY",
+  "aberrations": ["shallowsalts.buttered_comet"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

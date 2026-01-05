@@ -1,0 +1,42 @@
+﻿{
+  "itemNameKey": "shallowsalts.starry_night.name",
+  "itemDescriptionKey": "shallowsalts.starry_night.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "shallowsalts.starry_night",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 300,
+  "dimensions": [
+    "XXX",
+	"XXX",
+	"XXX"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": false,
+  "night": true,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 10,
+  "harvestMinigameType": "FISHING_SPIRAL",
+  "perSpotMin": 1,
+  "perSpotMax": 3,
+  "harvestPOICategory": "FISH_LARGE",
+  "harvestableType": "HADAL",
+  "harvestDifficulty": "HARD",
+  "isAberration": true,
+  "nonAberrationParent": "shallowsalts.black_diamond_stingray",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

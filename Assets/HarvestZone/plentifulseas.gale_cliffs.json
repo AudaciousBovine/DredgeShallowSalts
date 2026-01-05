@@ -1,0 +1,12 @@
+{
+    "location": {
+         "x": 347.0,
+        "y": 0.0,
+        "z": -272.0
+    },
+    "colliderType": "SPHERE",
+    "radius": 100,
+    "harvestableItems": [ "shallowsalts.horned_snail" ],
+    "day": true,
+    "night": true
+}

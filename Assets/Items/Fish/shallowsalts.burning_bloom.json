@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "shallowsalts.burning_bloom.name",
+  "itemDescriptionKey": "shallowsalts.burning_bloom.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "shallowsalts.burning_bloom",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 45,
+  "dimensions": [
+    "XXX",
+	"XXX"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 10,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 3,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_MEDIUM",
+  "harvestableType": "OCEANIC",
+  "harvestDifficulty": "MEDIUM",
+  "isAberration": true,
+  "nonAberrationParent": "shallowsalts.flowerhorn",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

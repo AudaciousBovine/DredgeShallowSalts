@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 317.0,
+        "y": 0.0,
+        "z": -242.0
+    },
+    "harvestableParticlePrefab": "StingrayParticles",
+    "items": [ "shallowsalts.black_diamond_stingray" ],
+    "startStock": 1,
+    "maxStock": 3,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

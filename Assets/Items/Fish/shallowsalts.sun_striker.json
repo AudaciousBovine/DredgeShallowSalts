@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "shallowsalts.sun_striker.name",
+  "itemDescriptionKey": "shallowsalts.sun_striker.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "shallowsalts.sun_striker",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 5,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 10,
+  "harvestMinigameType": "FISHING_SPIRAL",
+  "perSpotMin": 3,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "MEDIUM",
+  "isAberration": true,
+  "nonAberrationParent": "shallowsalts.pea_puffer",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

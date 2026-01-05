@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "shallowsalts.seething_stalker.name",
+  "itemDescriptionKey": "shallowsalts.seething_stalker.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "shallowsalts.seething_stalker",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 150,
+  "dimensions": [
+    "XXXX",
+	"XXXX"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 10,
+  "harvestMinigameType": "FISHING_SPIRAL",
+  "perSpotMin": 3,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_LARGE",
+  "harvestableType": "HADAL",
+  "harvestDifficulty": "HARD",
+  "isAberration": true,
+  "nonAberrationParent": "shallowsalts.pirarucu",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

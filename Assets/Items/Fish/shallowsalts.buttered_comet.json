@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "shallowsalts.buttered_comet.name",
+  "itemDescriptionKey": "shallowsalts.buttered_comet.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "shallowsalts.buttered_comet",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 6,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": false,
+  "night": true,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 10,
+  "harvestMinigameType": "FISHING_SPIRAL",
+  "perSpotMin": 5,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "SHALLOW",
+  "harvestDifficulty": "MEDIUM",
+  "isAberration": true,
+  "nonAberrationParent": "shallowsalts.horned_snail",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

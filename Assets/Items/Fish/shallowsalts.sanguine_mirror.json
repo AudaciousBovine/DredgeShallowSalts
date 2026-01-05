@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "shallowsalts.sanguine_mirror.name",
+  "itemDescriptionKey": "shallowsalts.sanguine_mirror.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "shallowsalts.sanguine_mirror",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 20,
+  "dimensions": [
+    "XX",
+	"XX"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 10,
+  "harvestMinigameType": "FISHING_SPIRAL",
+  "perSpotMin": 3,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_MEDIUM",
+  "harvestableType": "SHALLOW",
+  "harvestDifficulty": "MEDIUM",
+  "isAberration": true,
+  "nonAberrationParent": "shallowsalts.discus",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

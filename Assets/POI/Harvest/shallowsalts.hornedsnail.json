@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 347.0,
+        "y": 0.0,
+        "z": -272.0
+    },
+    "harvestableParticlePrefab": "SmallRegularFishParticles",
+    "items": [ "shallowsalts.horned_snail" ],
+    "startStock": 5,
+    "maxStock": 10,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}
