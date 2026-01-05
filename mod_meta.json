@@ -1,0 +1,9 @@
+{
+	"Author": "TheMinno",
+	"Name": "Shallow Salts",
+	"ModGUID": "TheMinno.ShallowSalts",
+	"Version": "0.0.1",
+	"ModAssembly": "ShallowSalts.dll",
+	"MinWinchVersion": "0.4.0",
+	"Entrypoint": "ShallowSalts.Main/Initialize"
+}

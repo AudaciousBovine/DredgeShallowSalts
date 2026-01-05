@@ -1,9 +1,0 @@
-{
-	"Author": "TheMinno",
-	"Name": "Winch Mod Template",
-	"ModGUID": "TheMinno.Shallow Salts",
-	"Version": "0.0.1",
-	"ModAssembly": "Shallow Salts.dll",
-	"MinWinchVersion": "0.4.0",
-	"Entrypoint": "Shallow Salts.Loader/Initialize"
-}

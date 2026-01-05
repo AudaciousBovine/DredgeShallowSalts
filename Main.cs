@@ -1,16 +1,16 @@
 ﻿using UnityEngine;
 
-namespace Shallow Salts
+namespace ShallowSalts
 {
-	public class Loader
+	public class Main
 	{
 		/// <summary>
 		/// This method is run by Winch to initialize your mod
 		/// </summary>
 		public static void Initialize()
 		{
-			var gameObject = new GameObject(nameof(Shallow Salts));
-			gameObject.AddComponent<Shallow Salts>();
+			var gameObject = new GameObject(nameof(ShallowSalts));
+			gameObject.AddComponent<ShallowSalts>();
 			GameObject.DontDestroyOnLoad(gameObject);
 		}
 	}

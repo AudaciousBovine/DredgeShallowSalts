@@ -23,7 +23,7 @@
     <None Include="Assets\**\*.*">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="Shallow Salts.csproj.user" />
+    <None Include="ShallowSalts.csproj.user" />
   </ItemGroup>
 
   <ItemGroup>
